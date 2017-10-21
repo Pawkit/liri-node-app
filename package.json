@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mitalimn/liri-node-app.git"
+    "url": "git+https://github.com/pawkit/liri-node-app.git"
   },
   "keywords": [
     "LIRI"
   ],
-  "author": "Mitali Naik",
-  "license": "MIT",
+  "author": "Patrick Wong",
+  "license": "PW",
   "bugs": {
-    "url": "https://github.com/mitalimn/liri-node-app/issues"
+    "url": "https://github.com/pawkit/liri-node-app/issues"
   },
-  "homepage": "https://github.com/mitalimn/liri-node-app#readme",
+  "homepage": "https://github.com/pawkit/liri-node-app#readme",
   "dependencies": {
     "fs": "0.0.1-security",
     "inquirer": "^2.0.0",
